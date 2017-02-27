@@ -21,11 +21,8 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
-
-
-
-
-
+pdist_Vec = pdist2(X, centroids);
+[M, idx] = min(pdist_Vec , [] , 2); 
 
 % =============================================================
 
