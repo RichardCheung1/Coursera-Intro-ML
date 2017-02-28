@@ -1,6 +1,6 @@
 # Coursera-Intro-ML
 
-Scripts that are modified by me:
+Scripts that are modified:
 
 ex1:
 - warmUpExercise.m - Simple example function in Octave/MATLAB
