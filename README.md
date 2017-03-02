@@ -48,3 +48,8 @@ ex7:
 - findClosestCentroids.m - Find closest centroids (used in K-means)  
 - computeCentroids.m - Compute centroid means (used in K-means)  
 - kMeansInitCentroids.m - Initialization for K-means centroids  
+
+ex8:
+- estimateGaussian.m - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix  
+- selectThreshold.m - Find a threshold for anomaly detection  
+- cofiCostFunc.m - Implement the cost function for collaborative filtering  
