@@ -1,5 +1,4 @@
 *.pdf
 *.asv
-lib/*
 submit.m
 token.mat
